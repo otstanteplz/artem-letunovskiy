@@ -3,9 +3,7 @@
 <div>
 <h3>About Me :</h3>
 <ul>
-<li>👾 Part of Pinely International</li>
 <li>💻 Backend Developer</li>
-<li>📫 How to reach me: artem.letunovsky@pinely.eu</li>
 </ul>
 
 <div>
